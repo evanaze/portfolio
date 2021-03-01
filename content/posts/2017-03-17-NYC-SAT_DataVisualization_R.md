@@ -1,7 +1,8 @@
 ---
-title: "Data Science Project: NYC SAT Visualization"
+title: "NYC SAT Visualization"
 date: 2017-03-17
-tags: [data science, visualization, R]
+categories: [data science, project]
+tags: [visualization, R]
 excerpt: "Data Science, NLP"
 ---
 
@@ -18,12 +19,12 @@ We present data visualization for SAT scores of accredited high schools in New Y
 
 ## Visualizations
 
-![](/assets/images/NYC-SAT/NYCmap.png)
+![](/images/NYC-SAT/NYCmap.png)
 
-![](/assets/images/NYC-SAT/SchoolLocationPlot.png)
+![](/images/NYC-SAT/SchoolLocationPlot.png)
 
-![](/assets/images/NYC-SAT/SchoolPlot_SATscores.png)
+![](/images/NYC-SAT/SchoolPlot_SATscores.png)
 
-![](/assets/images/NYC-SAT/BoroughsVSAvgSAT.png)
+![](/images/NYC-SAT/BoroughsVSAvgSAT.png)
 
-![](/assets/images/NYC-SAT/SchoolLocation_Boroughs.png)
+![](/images/NYC-SAT/SchoolLocation_Boroughs.png)

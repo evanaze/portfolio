@@ -28,9 +28,9 @@ pygmentsCodeFences = true
 [params]
     tagline = "My personal portfolio page"
     description = "A portfolio built using Hugo"
-    #images = ["images/"] #This is used for opengraph/twitter cards.
+    #images = ["/images"] #This is used for opengraph/twitter cards.
     customCSS = []  #Optional Customised CSS
-    favicon = "images/main_logo.png"
+    favicon = "/images/main_logo.png"
     #utterancesRepo = "username/repository"
     #utterancesIssueTerm = "pathname"
     #homepageLength = 10
