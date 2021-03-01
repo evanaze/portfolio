@@ -22,15 +22,15 @@ pygmentsCodeFences = true
     twitter = "azevedo_evan"
     #instagram = "username"
     #stackoverflow = "username"
-    youtube = "user/username" # or channel/channelname
+    #youtube = "user/username" # or channel/channelname
     #devto = "username"
 
 [params]
     tagline = "My personal portfolio page"
     description = "A portfolio built using Hugo"
-    #images = [""] #This is used for opengraph/twitter cards.
+    #images = ["images/"] #This is used for opengraph/twitter cards.
     customCSS = []  #Optional Customised CSS
-    #favicon = ""
+    favicon = "images/main_logo.png"
     #utterancesRepo = "username/repository"
     #utterancesIssueTerm = "pathname"
     #homepageLength = 10
@@ -41,11 +41,11 @@ pygmentsCodeFences = true
     #disableDarkModeCSS = false # disables css style for users using dark-mode
 
 # uncomment to enable the Tags link on the main toolbar
-#  [[menu.main]]
-#    identifier = "tags"
-#    name = "Tags"
-#    url = "/tags"
-#    weight = 1
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags"
+    weight = 1
 
 # uncomment to enable the Categories link on the main toolbar
   [[menu.main]]
