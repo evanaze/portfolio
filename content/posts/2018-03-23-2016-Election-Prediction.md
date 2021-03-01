@@ -1,7 +1,6 @@
 ---
-title: "Data Science Project: 2016 Election Prediction"
+title: "2016 Election Prediction"
 date: 2018-03-23
-categories: [blog post]
+categories: [data science project]
 tags: [data science, election]
-excerpt: "Data Science, Election"
 ---

@@ -1,7 +1,6 @@
 ---
-title: "Machine Learning: Algorithmic Pitch Mapping"
+title: "Algorithmic Pitch Mapping"
 date: 2017-04-13
-categories: [blog post]
+categories: [machine learning project]
 tags: [machine learning, music]
-excerpt: "Machine Learning, Music"
 ---

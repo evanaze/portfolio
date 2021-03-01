@@ -3,7 +3,6 @@ title: "Opinion: On Defining Success"
 date: 2020-12-31
 categories: [opinion, blog post]
 tags: [philosophy]
-excerpt: "Philosophy, Measuring Success"
 ---
 ![Header](/images/gerrie-van-der-walt-Ow7T2QWLMBY-unsplash.jpg#full) 
 

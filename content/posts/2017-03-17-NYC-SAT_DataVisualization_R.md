@@ -3,7 +3,6 @@ title: "NYC SAT Visualization"
 date: 2017-03-17
 categories: [data science, project]
 tags: [visualization, R]
-excerpt: "Data Science, NLP"
 ---
 
 # NYC_SAT_DataVisualization_R
