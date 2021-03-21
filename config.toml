@@ -68,13 +68,13 @@ enableEmoji = true
         weight = 4
     [languages.en.params]
       # site description
-      description = "About uBlogger Theme"
+      description = "Evan Azevedo Blog"
       # site keywords
-      keywords = ["Theme", "Hugo"]
+      keywords = ["Evan", "Azevedo"]
       # App icon config
       [languages.en.params.app]
         # optional site title override for the app when added to an iOS home screen or Android launcher
-        title = "uBlogger"
+        title = "Evan Azevedo"
         # whether to omit favicon resource links
         noFavicon = false
         # modern SVG favicon to use in place of older style .png and .ico files
@@ -116,11 +116,11 @@ enableEmoji = true
           # Gravatar Email for preferred avatar in home page
           gravatarEmail = ""
           # URL of avatar shown in home page
-          avatarURL = "/images/avatar.png"
+          avatarURL = "images/headshot.jpeg"
           # title shown in home page (HTML format is supported)
-          title = "uBlogger | Hugo Theme"
+          title = "Evan Azevedo Blog"
           # subtitle shown in home page (HTML format is supported)
-          subtitle = "A Clean, Elegant but Advanced Hugo Theme"
+          subtitle = "My personal blog and portfolio site"
           # whether to use typeit animation for subtitle
           typeit = false
           # whether to show social links
@@ -134,15 +134,15 @@ enableEmoji = true
           paginate = 6
       # Social config in home page
       [languages.en.params.social]
-        GitHub = "xxxx"
-        Linkedin = ""
-        Twitter = "xxxx"
-        Instagram = "xxxx"
-        Facebook = "xxxx"
-        Telegram = "xxxx"
-        Medium = ""
+        GitHub = "evanaze"
+        Linkedin = "evanaze"
+        Twitter = "azevedo_evan"
+        Instagram = "evanaze"
+        Facebook = "evanazz"
+        Telegram = ""
+        Medium = "evanazevedo"
         Gitlab = ""
-        Youtubelegacy = "xxxx"
+        Youtubelegacy = ""
         Youtubecustom = ""
         Youtubechannel = ""
         Tumblr = ""
@@ -195,11 +195,8 @@ enableEmoji = true
         XMPP = ""
         Matrix = ""
         Bilibili = ""
-        Email = "xxxx@xxxx.com"
+        Email = "evan@azevedo.com"
         RSS = true
-        [languages.en.params.social.Mastodon]
-          id = "@xxxx"
-          prefix = "https://mastodon.technology/"
 
 [params]
   # uBlogger theme version
@@ -228,7 +225,7 @@ enableEmoji = true
       # title name
       name = "Evan"
       # you can add extra information before the name (HTML format is supported), such as icons
-      pre = "<i class='fas fa-pencil-alt fa-fw'></i>"
+      pre = "<i class='fas fa-code'></i>"
       # you can add extra information after the name (HTML format is supported), such as icons
       post = ""
       # whether to use typeit animation for title name
