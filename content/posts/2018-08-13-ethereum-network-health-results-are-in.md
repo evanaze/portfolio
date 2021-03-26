@@ -1,5 +1,5 @@
 ---
-title: Ethereum Network Health Results are In"
+title: Ethereum Network Health Results are In
 date: 2018-08-13
 categories: [blog post]
 tags: [blockchain, blog post, finance]
