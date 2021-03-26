@@ -7,4 +7,3 @@ resources:
 categories: [machine learning project]
 tags: [machine learning, music]
 ---
-{{ }}

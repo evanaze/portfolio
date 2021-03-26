@@ -43,13 +43,29 @@ enableEmoji = true
         title = ""
         weight = 1
       [[languages.en.menu.main]]
+        identifier = "external"
+        pre = ""
+        post = ""
+        name = "External Work"
+        url = "/external/"
+        title = ""
+        weight = 2
+      [[languages.en.menu.main]]
+        identifier = "projects"
+        pre = ""
+        post = ""
+        name = "Projects"
+        url = "/projects/"
+        title = ""
+        weight = 3
+      [[languages.en.menu.main]]
         identifier = "tags"
         pre = ""
         post = ""
         name = "Tags"
         url = "/tags/"
         title = ""
-        weight = 2
+        weight = 4
       [[languages.en.menu.main]]
         identifier = "categories"
         pre = ""
@@ -57,7 +73,7 @@ enableEmoji = true
         name = "Categories"
         url = "/categories/"
         title = ""
-        weight = 3
+        weight = 5
       [[languages.en.menu.main]]
         identifier = "about"
         pre = ""
@@ -65,7 +81,7 @@ enableEmoji = true
         name = "About"
         url = "/about/"
         title = ""
-        weight = 4
+        weight = 6
     [languages.en.params]
       # site description
       description = "Evan Azevedo Blog"
