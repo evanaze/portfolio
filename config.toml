@@ -561,6 +561,7 @@ enableEmoji = true
 # Permalinks config (https://gohugo.io/content-management/urls/#permalinks)
 [Permalinks]
   posts = ":year/:month/:filename"
+  external = ":section/:filename"
   #posts = ":filename"
 
 # Privacy config (https://gohugo.io/about/hugo-and-gdpr/)
