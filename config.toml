@@ -121,8 +121,6 @@ enableEmoji = true
           title = "Evan Azevedo Blog"
           # subtitle shown in home page (HTML format is supported)
           subtitle = "My personal blog and portfolio site"
-          # whether to use typeit animation for subtitle
-          typeit = false
           # whether to show social links
           social = true
           # disclaimer (HTML format is supported)
@@ -131,7 +129,7 @@ enableEmoji = true
         [languages.en.params.home.posts]
           enable = true
           # special amount of posts in each home posts page
-          paginate = 6
+          paginate = 5
       # Social config in home page
       [languages.en.params.social]
         GitHub = "evanaze"
@@ -204,7 +202,7 @@ enableEmoji = true
   # site default theme ("light", "dark", "auto")
   defaultTheme = "auto"
   # public git repo url only then enableGitInfo is true
-  gitRepo = "https://github.com/upagge/dolboblog-theme"
+  gitRepo = "https://github.com/evanaze/portfolio"
   # which hash function used for SRI, when empty, no SRI is used ("sha256", "sha384", "sha512", "md5")
   fingerprint = ""
   # date format
@@ -228,8 +226,6 @@ enableEmoji = true
       pre = "<i class='fas fa-code'></i>"
       # you can add extra information after the name (HTML format is supported), such as icons
       post = ""
-      # whether to use typeit animation for title name
-      typeit = false
 
   # Footer config
   [params.footer]
@@ -239,7 +235,7 @@ enableEmoji = true
     # whether to show Hugo and theme info
     hugo = true
     # whether to show copyright info
-    copyright = true
+    copyright = false
     # whether to show the author
     author = true
     # site creation time
@@ -405,7 +401,7 @@ enableEmoji = true
       enable = true
       Twitter = true
       Facebook = true
-      Linkedin = false
+      Linkedin = true
       Whatsapp = false
       Pinterest = false
       Tumblr = false
@@ -447,19 +443,8 @@ enableEmoji = true
       images = []
       # Publisher info
       [params.page.seo.publisher]
-        name = "xxxx"
-        logoUrl = "/images/avatar.png"
-
-  # TypeIt config
-  [params.typeit]
-    # typing speed between each step (measured in milliseconds)
-    speed = 100
-    # blinking speed of the cursor (measured in milliseconds)
-    cursorSpeed = 1000
-    # character used for the cursor (HTML format is supported)
-    cursorChar = "|"
-    # cursor duration after typing finishing (measured in milliseconds, "-1" means unlimited)
-    duration = -1
+        name = "Evan Azevedo"
+        logoUrl = "/images/headshot.jpeg"
 
   # Site verification code for Google/Bing/Yandex/Pinterest/Baidu
   [params.verification]
