@@ -2,13 +2,12 @@
 title: "Opinion: On Defining Success"
 date: 2020-12-31
 resources:
-- name: featured-image
-  src: /images/gerrie-van-der-walt-Ow7T2QWLMBY-unsplash.jpg
+- name: featured-image-preview
+  src: gerrie-van-der-walt-Ow7T2QWLMBY-unsplash.jpg
 
 categories: [opinion, blog post]
 tags: [philosophy]
 ---
-# ![Header](/images/gerrie-van-der-walt-Ow7T2QWLMBY-unsplash.jpg#full) 
 
 As 2020 wraps up, I think it is a good time to reflect and look forward a bit to what has made me happiest and feeling most successful. 
 If I have learned anything this year, it is that there are things you can control, and things you cannot control. 
