@@ -47,7 +47,7 @@ enableEmoji = true
         pre = ""
         post = ""
         name = "External Work"
-        url = "/external/"
+        url = "/categories/external/"
         title = ""
         weight = 2
       [[languages.en.menu.main]]
@@ -55,7 +55,7 @@ enableEmoji = true
         pre = ""
         post = ""
         name = "Projects"
-        url = "/projects/"
+        url = "/categories/projects/"
         title = ""
         weight = 3
       [[languages.en.menu.main]]
@@ -561,8 +561,6 @@ enableEmoji = true
 # Permalinks config (https://gohugo.io/content-management/urls/#permalinks)
 [Permalinks]
   posts = ":year/:month/:filename"
-  external = ":section/:filename"
-  #posts = ":filename"
 
 # Privacy config (https://gohugo.io/about/hugo-and-gdpr/)
 [privacy]

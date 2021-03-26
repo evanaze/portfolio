@@ -4,6 +4,6 @@ date: 2017-04-13
 resources:
 - name: algorithmic-pitch-mapping.pdf
 
-categories: [machine learning project]
+categories: [projects]
 tags: [machine learning, music]
 ---

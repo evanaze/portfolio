@@ -1,7 +1,7 @@
 ---
 title: "NYC SAT Visualization"
 date: 2017-03-17
-categories: [data science, project]
+categories: [projects]
 tags: [visualization, R]
 ---
 
