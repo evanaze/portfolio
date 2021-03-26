@@ -2,7 +2,7 @@
 title: "Opinion: On Defining Success"
 date: 2020-12-31
 resources:
-- name: featured-image-preview
+- name: featured-image
   src: gerrie-van-der-walt-Ow7T2QWLMBY-unsplash.jpg
 
 categories: [opinion, blog post]
