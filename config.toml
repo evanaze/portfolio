@@ -208,7 +208,7 @@ enableEmoji = true
   # date format
   dateFormat = "2006-01-02"
   # website images for Open Graph and Twitter Cards
-  images = ["/logo.png"]
+  images = ["/main_logo.png"]
 
   # Header config
   [params.header]
@@ -237,7 +237,7 @@ enableEmoji = true
     # whether to show copyright info
     copyright = false
     # whether to show the author
-    author = true
+    author = false
     # site creation time
     since = 2021
     # ICP info only in China (HTML format is supported)
@@ -457,9 +457,9 @@ enableEmoji = true
   # Site SEO config
   [params.seo]
     # image URL
-    image = "/images/Apple-Devices-Preview.png"
+    image = "/images/headshot.jpeg"
     # thumbnail URL
-    thumbnailUrl = "/images/screenshot.png"
+    thumbnailUrl = "/images/headshot.jpeg"
 
   # Analytics config
   [params.analytics]
@@ -544,8 +544,8 @@ enableEmoji = true
 
 # Permalinks config (https://gohugo.io/content-management/urls/#permalinks)
 [Permalinks]
-  # posts = ":year/:month/:filename"
-  posts = ":filename"
+  posts = ":year/:month/:filename"
+  #posts = ":filename"
 
 # Privacy config (https://gohugo.io/about/hugo-and-gdpr/)
 [privacy]
