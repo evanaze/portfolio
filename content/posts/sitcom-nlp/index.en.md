@@ -1,6 +1,6 @@
 ---
 title: "Sitcom NLP"
-date: 2016-01-01
+date: 2018-05-19
 resources:
   - name: featured-image
     src: spongebob.png
