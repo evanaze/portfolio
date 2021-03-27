@@ -187,7 +187,7 @@ enableEmoji = true
         Kickstarter = ""
         Patreon = ""
         Steam = ""
-        Twitch = ""
+        Twitch = "evanaze"
         Strava = ""
         Skype = ""
         Whatsapp = ""
@@ -485,7 +485,7 @@ enableEmoji = true
       # [UA-XXXXXXXX-X] google analytics code
       id = "G-98RQPXT0Z9"
       # whether to use gtag linked
-      gtag = false
+      gtag = true
       # whether to anonymize IP
       anonymizeIP = true
     # Fathom Analytics
