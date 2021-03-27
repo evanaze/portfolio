@@ -9,4 +9,3 @@ categories: [blog post]
 tags: [knowledge management]
 draft: true
 ---
-

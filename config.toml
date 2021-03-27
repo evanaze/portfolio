@@ -483,7 +483,7 @@ enableEmoji = true
     # Google Analytics
     [params.analytics.google]
       # [UA-XXXXXXXX-X] google analytics code
-      id = ""
+      id = "G-98RQPXT0Z9"
       # whether to use gtag linked
       gtag = false
       # whether to anonymize IP
@@ -494,7 +494,7 @@ enableEmoji = true
       # server url for your tracker if you're self hosting
       server = ""
     [params.analytics.yandex]
-      id = "70532758"
+      id = ""
 
   # Cookie consent config
   [params.cookieconsent]
