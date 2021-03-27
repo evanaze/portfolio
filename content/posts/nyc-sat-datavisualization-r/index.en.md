@@ -18,12 +18,12 @@ We present data visualization for SAT scores of accredited high schools in New Y
 
 ## Visualizations
 
-![](/images/NYC-SAT/NYCmap.png)
+![](NYCmap.png)
 
-![](/images/NYC-SAT/SchoolLocationPlot.png)
+![](SchoolLocationPlot.png)
 
-![](/images/NYC-SAT/SchoolPlot_SATscores.png)
+![](SchoolPlot_SATscores.png)
 
-![](/images/NYC-SAT/BoroughsVSAvgSAT.png)
+![](BoroughsVSAvgSAT.png)
 
-![](/images/NYC-SAT/SchoolLocation_Boroughs.png)
+![](SchoolLocation_Boroughs.png)
