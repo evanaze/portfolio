@@ -3,10 +3,11 @@ title: "Sitcom NLP"
 date: 2018-05-19
 resources:
   - name: featured-image
-    src: spongebob.png
+    src: seinfeld_vectors.png
 
 categories: [projects]
 tags: [data science]
+draft: true
 ---
 
 # INTERACTIVE APP COMING SOON!

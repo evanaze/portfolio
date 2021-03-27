@@ -1,6 +1,6 @@
 ---
 title: "Captcha Image Solver"
-date: 2020-05-01
+date: 2020-07-15
 resources:
 - name: featured-image
   src: captcha_sample.png

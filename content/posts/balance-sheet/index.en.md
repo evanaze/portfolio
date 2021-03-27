@@ -1,12 +1,13 @@
 ---
 title: "Balance Sheet"
-date: 2019-03-19
+date: 2020-09-10
 resources:
 - name: featured-image
   src: balance_sheet.png
 
 categories: [projects]
 tags: [python]
+draft: false
 ---
 
 Yes, I am a geek. I enjoy personal finance as well as developing in Python, so I created a Python package called `balance-sheet` to track your net worth. And they say millenials are not money-savy.  
