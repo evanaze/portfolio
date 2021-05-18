@@ -3,10 +3,11 @@ title: "NVT: Bursting the Blockchain Bubble"
 date: 2018-07-20
 categories: [external, amberdata]
 section: amberdata
+math: false
 tags: [blockchain, blog post, finance]
 link: https://medium.com/amberdata/nvt-bursting-the-blockchain-bubble-6974e8609244
 ---
-Following the epic ballooning of Cryptocurrency prices in December 2017, one might wonder: “How could it be possible that Ethereum was worth $1,400 mid-December , when it is currently valued at $472 mid-July? Is this healthy?” The million dollar question: “Were we duped?” Let’s look to the NVT — or Network Value to Transactions ratio — a useful metric for judging the effects of a bonafide Crypto “bubble”.
+Following the epic ballooning of Cryptocurrency prices in December 2017, one might wonder: “How could it be possible that Ethereum was worth \$1,400 mid-December , when it is currently valued at \$472 mid-July? Is this healthy?” The million dollar question: “Were we duped?” Let’s look to the NVT — or Network Value to Transactions ratio — a useful metric for judging the effects of a bonafide Crypto “bubble”.
 
 ## What is NVT?
 The NVT is an analog to the P/E ratio tailored for Cryptocurrency assets. [Introduced](https://woobull.com/introducing-nvt-ratio-bitcoins-pe-ratio-use-it-to-detect-bubbles/) by Willy Woo, the NVT ratio mimics the behavior of the P/E ratio in that we see a spike in either metric when the asset is valued much higher than its market usage.
