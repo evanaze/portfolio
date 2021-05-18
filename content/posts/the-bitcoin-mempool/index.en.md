@@ -32,8 +32,12 @@ When a new transaction is submitted to the Bitcoin network, it first must get ve
 
 This is what we mean when we say that we can observe transactions “in flight” in the mempool: we can see the transactions and their information before the funds transfer. If I am a cryptocurrency trader, I might want to use this information to my advantage to identify how entities are sending money on the blockchain - something that is impossible to do in most traditional markets. Sounds easy, right? Here is where blockchain data gets a bit tricky, like that stained glass window.
 
+If you'd like another explaination on this topic, I suggest this [guide](https://99bitcoins.com/bitcoin/mempool/) to get started.
+
 ## What is a Bitcoin Wallet?
-If you are interested in purchasing and possibly trading cryptocurrency, you may set up a digital wallet with one of the many wallet providers out there. This wallet holds a “secret key” proving you have ownership over some amount of cryptocurrency on the network. In order for a friend or exchange to deposit some cryptocurrency into your wallet, you need to give them an address to send it to. However, this gets complicated because most modern digital wallets create a new address for each transfer as a safety measure. Most centralized exchanges such as Coinbase have adopted this safety measure as well.
+If you are interested in purchasing and possibly trading cryptocurrency, you may set up a digital wallet with one of the many wallet providers out there. This wallet holds a “secret key” proving you have ownership over some amount of cryptocurrency on the network. In order for a friend or exchange to deposit some cryptocurrency into your wallet, you need to give them an address to send it to. However, this gets complicated because most modern digital wallets create a new address for each transfer as a safety measure. 
+
+Most centralized exchanges such as Coinbase have adopted this safety measure as well. Coinbase also has a very clear [explaination](https://www.coinbase.com/learn/crypto-basics/what-is-a-crypto-wallet) of digital wallets on their website.
 
 While this is great for you as a user because it protects your digital assets from being stolen, it makes it a lot harder for data miners such as myself to identify who is sending to whom. While this is not always the case, it starts to look more and more like every transaction is between new users, which is unhelpful. If you read my aforementioned post on BitMEX wallets you will know how we solved this problem for wallets on the BitMEX exchange, but I will summarize it here.
 
@@ -58,17 +62,17 @@ As the data comes in we process the data with a function called `on_response()` 
 As we log the transaction, we want to check if the sender or recipients are a part of our exchange of interest, so we have an idea of whether the money is trading on, from, or within the exchange. This actually tends to be a decent indicator of the market health of cryptocurrency. The more people putting money onto an exchange, the more bullish they are and vice-versa. In order to achieve this for BitMEX wallets, we can simply parse the addresses for “3BMEX” or “3BitMEX”, as mentioned above. But, I wanted to go a step further and use what is called a bloom filter.
 
 ## Bloom Filter
-A bloom filter is an efficient data structure for querying a list of items. It can answer the question “Is this object not in the list of items?” with certainty, but gives an answer with some margin of error when you ask it “is this object in the list of items?”. This makes it useful for lighter applications when you have up to millions or more items to search. In order to take advantage of this, I used my list of addresses from the BitMEX blog post to cross-reference each time we logged a new large transaction. 
+A [bloom filter](https://www.geeksforgeeks.org/bloom-filters-introduction-and-python-implementation/) is an efficient data structure for querying a list of items. It can answer the question “Is this object not in the list of items?” with certainty, but gives an answer with some margin of error when you ask it “is this object in the list of items?”. This makes it useful for lighter applications when you have up to millions or more items to search. In order to take advantage of this, I used my list of addresses from the BitMEX blog post to cross-reference each time we logged a new large transaction. 
 
 You may not have such a nice algorithm for identifying exchange addresses on other exchanges, in which case you can keep a list of the exchange’s addresses you come across and use the bloom filter to check new transactions for exchange addresses as they come in. All said and done, you will probably also want a third process - possibly with a different machine or done after the data has been collected - to double-check the transactions to make sure the bloom filter did not miss any. 
 
 ## Getting Started
-We will also make good use of the program tmux written in C for Linux machines. This is a very useful program and has become a standard part of my workflow since I have learned it for this blog post. Tmux starts a server session that allows your shell sessions to stay alive even after you leave, or the computer would regularly go to sleep. Its main use here is to keep the Python session alive and listening to the websocket indefinitely, but there are many more uses for tmux such as creating a customized dev environment, and much more.
+We will also make good use of the program [tmux](https://github.com/tmux/tmux) written in C for Linux machines. This is a very useful program and has become a standard part of my workflow since I have learned it for this blog post. Tmux starts a server session that allows your shell sessions to stay alive even after you leave, or the computer would regularly go to sleep. Its main use here is to keep the Python session alive and listening to the websocket indefinitely, but there are many more uses for tmux such as creating a customized dev environment, and much more.
 
 If you would like to follow along or try this analysis yourself, you first need an Amberdata API Key to access the websocket. The full code for this blog post, along with the other blog posts in this series is available here, and for this post we will be focusing on the repository txn-mempool. I made sure that there are minimal packages to install, so you should be able to get up and running collecting data with just Python version 3.7 and the virtual environment manager of your choice. Now that we have that out of the way, we can move on to the fun part.
 
 ## The Analysis
-I left my Raspberry Pi running for about one day listening to the Bitcoin mempool. I set my threshold for pending transactions greater than 100 Bitcoin, or transactions worth at least roughly $1.15 million. 
+I left my [Raspberry Pi](https://www.raspberrypi.org/) running for about one day listening to the Bitcoin mempool. I set my threshold for pending transactions greater than 100 Bitcoin, or transactions worth at least roughly $1.15 million. 
 
 ### Watching pending transactions (over a certain threshold) live
 I captured mempool transactions periodically from August 26th, 2020 at 8:30 AM PST to the 28th at 8 AM. Plotting them in order of occurrence gives us this:
@@ -76,7 +80,6 @@ I captured mempool transactions periodically from August 26th, 2020 at 8:30 AM P
 ![](mag_pending.png "A plot of transaction magnitude over my data collection period")
 
 We can see that we observed basically two tiers of pending transactions. Small (in the scheme of things) transactions worth less than 1,000 Bitcoin (~$11 million) that happen frequently, and a good amount of pending transactions in the 10,000 Bitcoin range (~$100 million) and above. This may come as a surprise to some about the shocking amount of value constantly being transferred on the Bitcoin network. The overall distribution of pending transactions we recorded looks like this:
-
 ```
 count      503
 mean      1034
@@ -159,6 +162,7 @@ If you are interested in trying out this analysis for yourself, you can check ou
 
 ## Sources
 * Bitcoin’s Mempool: A Beginner's Explanation: https://99bitcoins.com/bitcoin/mempool/ 
+* Coinbase - What is a Crypto Wallet?: https://www.coinbase.com/learn/crypto-basics/what-is-a-crypto-wallet
 * Amberdata Pending Transaction Websocket: https://docs.amberdata.io/reference#address-mempool 
 * Amberdata’s blockchain address transaction endpoint: https://docs.amberdata.io/reference#get-address-transactions 
 * Amberdata’s OHLCV Historical Endpoint: https://docs.amberdata.io/reference#get-historical-ohlc 
