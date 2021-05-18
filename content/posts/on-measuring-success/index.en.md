@@ -7,7 +7,7 @@ resources:
 
 categories: [blog post]
 tags: [philosophy]
-draft: true
+draft: false
 ---
 
 As 2020 wraps up, I think it is a good time to reflect and look forward a bit to what has made me happiest and feeling most successful. 
@@ -37,7 +37,7 @@ In the book, the main protagonist Zarathustra explains that the human is meant t
 He sees the Uberhuman as the actualization of the next evolution in man as a higher state of being.
 This is represented in popular culture by the baby at the end of Stanley Kubrik's 2001: A Space Odyssey.
 
-![An image of the baby at the end of the movie](/images/7277.jpg)
+![](7277.jpg "An image of the baby at the end of the movie")
 
 By Nietzche's definition, a true Uberhuman has likely not been born yet, and if they do exist they are incredibly rare and most people would not even know how to recognize one.
 Basically, if you are reading this then you are unfortunately more human than Uberhuman due to the imperfections (such as trauma) that naturally come in as you lead a normal life.
@@ -73,8 +73,6 @@ Ideally, each one has a decreasing sphere of influence.
 The way your success affects society is your career.
 The way your success affects those close to you are in relationships.
 The interaction of success with yourself is spirituality.
-
-
 
 I am open to more here, and to empirical evidence to support or reject these.
 But I believe that you should be as *selfish* as possible for all things along these dimensions.
@@ -145,7 +143,7 @@ Spirituality does not necessarily mean religion, at least in the way I use it.
 Here I use spirituality to mean 
 One way to look at spirituality is as the dot product between what you want to be, and what you are.
 
-![Visualizing a dot product](/images/iu.png)
+![](iu.png "Visualizing a dot product")
 
 #### Questions
 * Am I happy? Am I fulfilled by what I do and who I spend time with?

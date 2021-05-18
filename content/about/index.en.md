@@ -1,12 +1,8 @@
 ---
 title: "About Me"
 date: 2021-03-06
-resources: 
-- name: featured-image
-  src: unsplashed_bridge.jpg
-
-draft: false
 ---
+![](unsplashed_bridge.jpg)
 
 <p align="center"><i>The breeze which heaven has sent<br>We must endure, and toil without complaining.</i><br> ― Marcus Aurelius, Meditations</p>
 
