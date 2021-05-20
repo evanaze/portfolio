@@ -13,8 +13,10 @@ Photo by <a href="https://unsplash.com/@zeis?utm_source=unsplash&utm_medium=refe
 
 Below is the my final project for the course PSTAT 131 - Data Mining at UC Santa Barbara.
 
-<embed src="131_Final_Project.pdf" width="800px" height="2100px" />
-
-<iframe src="131_Final_Project.pdf" style="width: 100%;height: 100%;border: none;"></iframe>
-
-<iframe src="https://docs.google.com/gview?url=https://www.evanazevedo.com/2018/03/election-prediction/131_Final_Project.pdf&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
+<iframe
+    src="https://docs.google.com/gview?embedded=true&url=https://www.evanazevedo.com/2018/03/election-prediction/131_Final_Project.pdf#toolbar=0&scrollbar=0"
+    frameBorder="0"
+    scrolling="auto"
+    height="500px"
+    width="600px"
+></iframe>
