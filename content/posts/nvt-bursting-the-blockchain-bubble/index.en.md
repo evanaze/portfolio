@@ -1,15 +1,15 @@
 ---
 title: "NVT: Bursting the Blockchain Bubble"
 date: 2018-07-20
-categories: [amberdata]
-section: amberdata
 resources:
 - name: featured-image
   src: tech-daily-ztYmIQecyH4-unsplash.jpg
 
-math: false
+categories: [amberdata]
 tags: [blockchain, blog post, finance]
 link: https://medium.com/amberdata/nvt-bursting-the-blockchain-bubble-6974e8609244
+section: amberdata
+math: false
 ---
 Photo by <a href="https://unsplash.com/@techdailyca?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tech Daily</a> on <a href="https://unsplash.com/s/photos/ethereum?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   

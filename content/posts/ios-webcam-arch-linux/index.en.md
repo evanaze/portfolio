@@ -6,7 +6,7 @@ resources:
   src: arch-linux-logo.png
 
 categories: [guide]
-tags: [linux, obs]
+tags: [linux]
 draft: false
 ---
 
