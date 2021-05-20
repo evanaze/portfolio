@@ -7,7 +7,7 @@ resources:
   src: Ople_Tableau_Header_1000.png
 
 categories: [ople]
-tags: [seo, blog post, data analytics]
+tags: [seo, blog post]
 link: https://ople.ai/ai-blog/top-3-data-analysis-tools/
 ---
 Traditionally used by larger companies with a lot of data, many companies turn to Business Intelligence tools to maintain a competitive edge. Business Intelligence data analysis tools are used for deriving useful insights from business and market data. They allow users to improve operations, to optimize business processes, and to better understand the customer lifecycle. In advanced cases, Business intelligence software also provides predictive modeling and statistical modeling to understand the future. Artificial Intelligence and Machine Learning tools can augment these valuable analytics to provide surprisingly accurate forecasts, or “predictive analytics”. 

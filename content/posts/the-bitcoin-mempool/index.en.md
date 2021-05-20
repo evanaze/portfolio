@@ -1,14 +1,14 @@
 ---
 title: "The Bitcoin Mempool: Where Transactions Take Flight"
 date: 2020-09-25
-categories: [amberdata]
-tags: [blockchain, finance]
-math: true
 resources:
 - name: featured-image
   src: sam-bark-XFkkYwKiC_U-unsplash.jpg
 
+categories: [amberdata]
+tags: [blockchain, finance]
 link: https://hackernoon.com/the-bitcoin-mempool-where-transactions-take-flight-461m3w89
+math: true
 ---
 *Featured Photo by Sam Bark on Unsplash*
 

@@ -2,13 +2,12 @@
 title: "Online Machine Learning Courses"
 subtitle: "Here are some of the best ways to learn the tools to empower you to rule your data"
 date: 2020-04-01
-categories: [ople]
-section: ople
 resources:
 - name: featured-image
   src: online-machine-learning-courses-1024x683.jpeg
 
-tags: [seo, blog post, machine learning]
+categories: [ople]
+tags: [seo, blog post]
 link: https://ople.ai/ai-blog/online-machine-learning-courses/
 ---
 Machine Learning skills are the most in-demand skills in today’s job market. Contrary to what you may hear on the news and in casual conversation, you do not need two PhDs in Statistics and Computer Science to wield the power of machine learning. If you do, that is great, but there are now a bevy of online resources – many of them free – that you can use to increase your skills in DS/AI. 

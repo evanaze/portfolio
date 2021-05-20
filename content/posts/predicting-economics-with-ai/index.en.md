@@ -7,7 +7,7 @@ resources:
   src: Economics-1024x683.jpeg
 
 categories: [ople]
-tags: [seo, blog post, machine learning]
+tags: [seo, blog post]
 link: https://ople.ai/ai-blog/predicting-economics-using-ai/
 ---
 Certain assumptions about economic models just don’t play out as you expect in the real world. These assumptions include: perfect competition, infinite buyer knowledge, and endless resources for production, and they form the basis of our modern economic system. 

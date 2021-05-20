@@ -2,14 +2,13 @@
 title: "Model Transparency and Explainability"
 subtitle: "Working with the Black Box problem of Machine Learning"
 date: 2020-03-13
-categories: [ople]
-math: true
 resources:
 - name: featured-image
   src: Ople_Transparency-1024x430.png
-
+categories: [ople]
 tags: [seo, blog post, machine learning]
 link: https://ople.ai/ai-blog/model-transparency-and-explainability/
+math: true
 ---
 Machine Learning is not only mysterious for business analysts that do not understand it, but for the practitioners like data scientists and machine learning engineers as well. In Machine Learning, there is a tradeoff between model complexity and interpretability. In other words, the most complex, predictive, and adaptable machine learning models are often the least interpretable. Interpretable here means comprehending the influencing factors of the decisions created by this complex machine learning model. We call this problem the “Black Box” problem of machine learning.
 

@@ -7,7 +7,7 @@ resources:
 
 categories: [projects]
 tags: [data science]
-draft: true
+draft: false
 ---
 
 # INTERACTIVE APP COMING SOON!

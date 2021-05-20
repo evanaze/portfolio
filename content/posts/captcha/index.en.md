@@ -6,7 +6,7 @@ resources:
   src: captcha_sample.png
 
 categories: [projects]
-tags: [machine learning]
+tags: [machine learning, python]
 draft: true
 ---
 
