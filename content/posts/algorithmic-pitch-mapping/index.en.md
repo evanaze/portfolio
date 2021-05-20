@@ -7,9 +7,13 @@ resources:
 
 categories: [projects]
 tags: [machine learning, music]
-draft: true
+draft: false
 ---
-Photo by <a href="https://unsplash.com/@marius?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Marius Masalar</a> on <a href="https://unsplash.com/s/photos/music?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
+Photo by [Marius Masalar](https://unsplash.com/@marius?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/music?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
-<embed src="algorithmic-pitch-mapping.pdf" width="800px" height="2100px" />
+Below is my final project for Physics 101 at UCSB on Algorithmic Pitch Mapping and Chord Structure Analysis of Music.
+If the document is not viewable on your browser, you can download it [here](https://www.evanazevedo.com/2017/04/algorithmic-pitch-mapping/algorithmic-pitch-mapping.pdf).
+
+<embed src="algorithmic-pitch-mapping.pdf" width="100%" height="1600px" />
+
+

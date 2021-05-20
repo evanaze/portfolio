@@ -8,7 +8,6 @@ resources:
 categories: [amberdata]
 tags: [blockchain, blog post, finance]
 link: https://medium.com/amberdata/nvt-bursting-the-blockchain-bubble-6974e8609244
-section: amberdata
 math: false
 ---
 Photo by <a href="https://unsplash.com/@techdailyca?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tech Daily</a> on <a href="https://unsplash.com/s/photos/ethereum?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
