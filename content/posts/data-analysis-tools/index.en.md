@@ -6,7 +6,7 @@ resources:
 - name: featured-image
   src: Ople_Tableau_Header_1000.png
 
-categories: [external, ople]
+categories: [ople]
 tags: [seo, blog post, data analytics]
 link: https://ople.ai/ai-blog/top-3-data-analysis-tools/
 ---

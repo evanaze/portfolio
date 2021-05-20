@@ -1,7 +1,7 @@
 ---
 title: Ethereum Network Health Results are In
 date: 2018-08-13
-categories: [external, amberdata]
+categories: [amberdata]
 resources:
 - name: featured-image
   src: doctor.jpeg

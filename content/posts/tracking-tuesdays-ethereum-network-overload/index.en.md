@@ -1,10 +1,16 @@
 ---
 title: "Tracking Tuesday’s Ethereum Network Overload"
 date: 2018-08-11
-categories: [external, amberdata]
+categories: [amberdata]
+resources:
+- name: featured-image
+  src: zoltan-tasi-uNXmhzcQjxg-unsplash.jpg
+
 tags: [blockchain, blog post, finance]
 link: https://medium.com/amberdata/tracking-tuesdays-ethereum-network-overload-2d87c4ac1f93
 ---
+Photo by <a href="https://unsplash.com/@zoltantasi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Zoltan Tasi</a> on <a href="https://unsplash.com/s/photos/ethereum?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
 Early this morning, a new address originated a spam attack on the Ethereum network. Inspired by this [article](https://cryptovest.com/news/ethereum-network-overloaded-again-strong-suspicions-of-spam/) on Cryptovest, let’s take a quick look on how the Amberdata platform displays this activity.
 
 The account in question operated transactions consuming upwards of 20% of the network gas usage this morning, taking up large space on the block and slowing the network. Our alert system identified this attack based on high gas costs and large Ether transfers. Notice the huge 1,100 Gwei gas price on the parent transaction:

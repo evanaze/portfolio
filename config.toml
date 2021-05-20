@@ -43,14 +43,6 @@ enableEmoji = true
         title = ""
         weight = 1
       [[languages.en.menu.main]]
-        identifier = "external"
-        pre = ""
-        post = ""
-        name = "External Work"
-        url = "/categories/external/"
-        title = ""
-        weight = 2
-      [[languages.en.menu.main]]
         identifier = "projects"
         pre = ""
         post = ""
@@ -84,7 +76,7 @@ enableEmoji = true
         weight = 6
     [languages.en.params]
       # site description
-      description = "Evan Azevedo Blog"
+      description = "Evan Azevedo Portfolio"
       # site keywords
       keywords = ["Evan", "Azevedo"]
       # App icon config
@@ -134,7 +126,7 @@ enableEmoji = true
           # URL of avatar shown in home page
           avatarURL = "/images/headshot.jpeg"
           # title shown in home page (HTML format is supported)
-          title = "Evan Azevedo Blog"
+          title = "Evan Azevedo's Blog"
           # subtitle shown in home page (HTML format is supported)
           subtitle = "My personal blog and portfolio site"
           # whether to show social links

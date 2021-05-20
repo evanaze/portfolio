@@ -1,7 +1,7 @@
 ---
 title: "How BitMEX Wallets Impact the Price of Bitcoin"
 date: 2020-06-27
-categories: [external, amberdata]
+categories: [amberdata]
 math: true
 resources:
 - name: featured-image

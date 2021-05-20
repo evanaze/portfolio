@@ -2,7 +2,7 @@
 title: "Online Machine Learning Courses"
 subtitle: "Here are some of the best ways to learn the tools to empower you to rule your data"
 date: 2020-04-01
-categories: [external, ople]
+categories: [ople]
 section: ople
 resources:
 - name: featured-image

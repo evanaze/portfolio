@@ -2,7 +2,7 @@
 title: "Model Transparency and Explainability"
 subtitle: "Working with the Black Box problem of Machine Learning"
 date: 2020-03-13
-categories: [external, ople]
+categories: [ople]
 math: true
 resources:
 - name: featured-image

@@ -2,7 +2,11 @@
 title: "Predicting Economics with AI"
 subtitle: "Will AI Provide Clarity to the Murky Field of Economics?"
 date: 2020-03-20
-categories: [external, ople]
+resources:
+- name: featured-image
+  src: Economics-1024x683.jpeg
+
+categories: [ople]
 tags: [seo, blog post, machine learning]
 link: https://ople.ai/ai-blog/predicting-economics-using-ai/
 ---

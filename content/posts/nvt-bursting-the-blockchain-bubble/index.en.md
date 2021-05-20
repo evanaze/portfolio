@@ -1,12 +1,18 @@
 ---
 title: "NVT: Bursting the Blockchain Bubble"
 date: 2018-07-20
-categories: [external, amberdata]
+categories: [amberdata]
 section: amberdata
+resources:
+- name: featured-image
+  src: tech-daily-ztYmIQecyH4-unsplash.jpg
+
 math: false
 tags: [blockchain, blog post, finance]
 link: https://medium.com/amberdata/nvt-bursting-the-blockchain-bubble-6974e8609244
 ---
+Photo by <a href="https://unsplash.com/@techdailyca?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tech Daily</a> on <a href="https://unsplash.com/s/photos/ethereum?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
 Following the epic ballooning of Cryptocurrency prices in December 2017, one might wonder: “How could it be possible that Ethereum was worth \$1,400 mid-December , when it is currently valued at \$472 mid-July? Is this healthy?” The million dollar question: “Were we duped?” Let’s look to the NVT — or Network Value to Transactions ratio — a useful metric for judging the effects of a bonafide Crypto “bubble”.
 
 ## What is NVT?

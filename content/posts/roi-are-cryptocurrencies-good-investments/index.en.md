@@ -1,10 +1,16 @@
 ---
 title: "ROI: Are Cryptocurrencies Good Investments?"
 date: 2018-08-03
-categories: [external, amberdata]
+categories: [amberdata]
+resources:
+- name: featured-image
+  src: markus-spiske-vrbZVyX2k4I-unsplash.jpg
+
 tags: [blockchain, blog post, finance]
 link: https://medium.com/amberdata/roi-are-cryptocurrencies-good-investments-ebb9a308924f
 ---
+Photo by <a href="https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Markus Spiske</a> on <a href="https://unsplash.com/s/photos/investment?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
 To financially literate people, ROI needs little introduction, and to others it is likely still familiar. Let’s talk a little bit about this popular financial metric relates to the new blood on the market: Crypto assets. For a given asset, Return On Investment — or ROI — is a measure of how well an asset is expected to perform. When we discuss returns, we must also take into account the risk associated with the asset, or the Risk Adjusted Return. Simply, if two assets have the same returns, then the asset with a lower risk will have a higher [risk adjusted return](https://www.investopedia.com/terms/r/riskadjustedreturn.asp).
 
 Something that may be surprising to readers of this post is that the ROI of Ethereum and other blockchain tokens is not unlike the ROI of the US Stock Market. As mentioned in last week’s blog post on the [NVT Ratio](/2018/07/nvt-bursting-the-blockchain-bubble/), [Amberdata](https://amberdata.io/) is excited to announce that we are incorporating these metrics into our platform.

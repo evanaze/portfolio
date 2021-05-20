@@ -1,7 +1,7 @@
 ---
 title: "The Bitcoin Mempool: Where Transactions Take Flight"
 date: 2020-09-25
-categories: [external, amberdata]
+categories: [amberdata]
 tags: [blockchain, finance]
 math: true
 resources:

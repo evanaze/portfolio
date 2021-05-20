@@ -1,10 +1,16 @@
 ---
 title: "To Trade or Not To Trade: Volatility and Crypto Assets"
 date: 2018-08-22
-categories: [external, amberdata]
+categories: [amberdata]
+resources:
+- name: featured-image
+  src: cardmapr-nl-rDzI7m7sjPE-unsplash.jpg
+
 tags: [blockchain, blog post, finance]
 link: https://medium.com/amberdata/to-trade-or-not-to-trade-volatility-and-crypto-assets-c938ab2f27a8
 ---
+Photo by <a href="https://unsplash.com/@cardmapr?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">CardMapr.nl</a> on <a href="https://unsplash.com/s/photos/cryptocurrency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
 Cryptocurrencies are naturally volatile assets, compared to more traditional assets such as stocks. One might wonder if this is going to change as time goes on, i.e. if Cryptocurrency value will stabilize in the near future. The article below does a great job covering some of the the properties and environmental causes that set crypto-assets apart from traditional assets. In other words, crypto-asset values are naturally [less predictable](https://snovian.space/blog/understanding-volatility-in-blockchain-tokens/) than their traditional counterparts, and that is unlikely to change any time soon.
 
 Despite being more volatile in general, I’d like to share some insights that the volatility of a Cryptocurrency can provide.
