@@ -6,7 +6,7 @@ resources:
   src: markus-spiske-vrbZVyX2k4I-unsplash.jpg
   
 categories: [amberdata]
-tags: [blockchain, blog post, finance]
+tags: [blockchain, finance]
 link: https://medium.com/amberdata/roi-are-cryptocurrencies-good-investments-ebb9a308924f
 ---
 Photo by <a href="https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Markus Spiske</a> on <a href="https://unsplash.com/s/photos/investment?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>

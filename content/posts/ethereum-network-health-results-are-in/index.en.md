@@ -6,7 +6,7 @@ resources:
 - name: featured-image
   src: doctor.jpeg
 
-tags: [blockchain, blog post, finance]
+tags: [blockchain, finance]
 link: https://medium.com/amberdata/ethereum-network-health-results-are-in-f8d239a07d6e
 ---
 _Ethereum has shown some weird behavior recently, and it’s time for a checkup._

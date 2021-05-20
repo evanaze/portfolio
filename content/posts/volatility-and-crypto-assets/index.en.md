@@ -6,7 +6,7 @@ resources:
 - name: featured-image
   src: cardmapr-nl-rDzI7m7sjPE-unsplash.jpg
 
-tags: [blockchain, blog post, finance]
+tags: [blockchain, finance]
 link: https://medium.com/amberdata/to-trade-or-not-to-trade-volatility-and-crypto-assets-c938ab2f27a8
 ---
 Photo by <a href="https://unsplash.com/@cardmapr?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">CardMapr.nl</a> on <a href="https://unsplash.com/s/photos/cryptocurrency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>

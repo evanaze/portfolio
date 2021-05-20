@@ -6,7 +6,7 @@ resources:
 - name: featured-image
   src: zoltan-tasi-uNXmhzcQjxg-unsplash.jpg
 
-tags: [blockchain, blog post, finance]
+tags: [blockchain, finance]
 link: https://medium.com/amberdata/tracking-tuesdays-ethereum-network-overload-2d87c4ac1f93
 ---
 Photo by <a href="https://unsplash.com/@zoltantasi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Zoltan Tasi</a> on <a href="https://unsplash.com/s/photos/ethereum?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>

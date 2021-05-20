@@ -6,7 +6,7 @@ resources:
   src: tech-daily-ztYmIQecyH4-unsplash.jpg
 
 categories: [amberdata]
-tags: [blockchain, blog post, finance]
+tags: [blockchain, finance]
 link: https://medium.com/amberdata/nvt-bursting-the-blockchain-bubble-6974e8609244
 math: false
 ---

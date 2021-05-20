@@ -6,7 +6,7 @@ resources:
     src: seinfeld_vectors.png
 
 categories: [projects]
-tags: [data science]
+tags: [data science, python]
 draft: false
 ---
 
