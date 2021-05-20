@@ -6,8 +6,8 @@ resources:
   src: aron-visuals-BXOXnQ26B7o-unsplash.jpg
 
 categories: [projects]
-tags: [data science, time series]
-draft: true
+tags: [data science, R]
+draft: false
 ---
 Photo by [Aron Visuals](https://unsplash.com/@aronvisuals?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/time-series?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
   
