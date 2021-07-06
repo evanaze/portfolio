@@ -5,7 +5,7 @@ resources:
 - name: featured-image
   src: gerrie-van-der-walt-Ow7T2QWLMBY-unsplash.jpg
 
-categories: [blog post]
+categories: [personal]
 tags: [philosophy]
 draft: false
 ---
